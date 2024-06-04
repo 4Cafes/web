@@ -10,7 +10,7 @@ let message = {
         "cafes > pasters ",
         "cafes -> Brain ",
         "making kids rage ",
-        "loaded cafes.lol - kick skids out NOW ",
+        "loaded cafes.lol - /kickskids all instant ",
         "botched but works ",
 
     ],
