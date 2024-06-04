@@ -1,7 +1,7 @@
 var audio = $("#audio")[0]
 var init = false
 
-audio.volume = 1
+audio.volume = .6
 
 function start() {
     if (init) return
