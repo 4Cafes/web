@@ -1,0 +1,22 @@
+.motd, .motd:link, .motd:active, .motd:visited {
+    color: var(--theme_text_primary) !important;
+    text-shadow: 0 0 8px var(--theme_shadow) !important;
+    line-height: 10px;
+    font-size: 13px !important;
+    font-family: monospace;
+    font-style: normal;
+    user-select: none;
+}
+
+.silentimg
+{
+    width: 100px;
+    height: 100px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 20px;
+    filter: brightness(10%) sepia(1) saturate(100) hue-rotate(275deg) drop-shadow(0 0 10px #00ffff);
+    position: relative;
+    user-select: none;
+}
