@@ -1,0 +1,20 @@
+/* Theme */
+html {
+    --theme_accent: rgb(0, 255, 255);
+    --theme_background: rgb(0, 0, 0);
+    --theme_group_background: rgb(6,6,10);
+    --theme_element_background: rgb(14,14,18);
+    --theme_tab_gradient_1: rgb(28,28,33);
+    --theme_tab_gradient_2: rgb(10,10,15);
+    --theme_tab_gradient_3: rgb(20,20,28);
+    --theme_text_header: rgb(199, 199, 247);
+    --theme_text_paragraph: rgb(164, 164, 201);
+    --theme_text_primary: rgb(255, 255, 255);
+    --theme_text_secondary: rgb(145,145,145);
+    --theme_text_light: rgb(215,215,215);
+    --theme_text_error: rgb(195,55,55);
+    --theme_border_1: rgb(20,20,25);
+    --theme_border_2: rgb(50,50,60);
+    --theme_border_3: rgb(65,65,75);
+    --theme_shadow: rgb(165, 105, 255);
+}
